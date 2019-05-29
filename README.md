@@ -2,7 +2,7 @@
 
 A tour of the oil industry with Thai company
 
-<a href="https://github.com/k2w2yut/oiltour-thai/blob/master/oil_share.ipynb">View notebook :</a>
+<a href="https://github.com/k2w2yut/oiltour-thai/blob/master/oil_share.ipynb">View notebook</a>
 
 Data source:
 - https://finance.yahoo.com
